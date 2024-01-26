@@ -1,7 +1,7 @@
 A program for the STM32L476RG microcontroller sending device rotation data to the computer. The device acts as a controller for a game "[Ścigałka](https://github.com/Triadziuch/Scigalka)".
 
 # Description
-This repository contains files for a program designed for the STM32L476RG microcontroller with the attached IKS01A3 board and an LCD Keypad Shield. The program transmits information to the computer via the UART interface about the device's position, which is read from sensors on the IKS01A3 board. Additionally, the device asynchronously receives data from the computer about the state of the "Racer" game, formats it, and displays it on the LCD Keypad Shield screen.
+This repository contains files for a program designed for the STM32L476RG microcontroller with the attached IKS01A3 board and an LCD Keypad Shield. The program transmits information to the computer via the UART interface about the device's rotation, which is read from sensors on the IKS01A3 board. Additionally, the device asynchronously receives data from the computer about the state of the "Ścigałka" game, formats it, and displays it on the LCD Keypad Shield screen.
 
 ## Rotation data transmitted via UART:
 ![5 0 - 7](https://github.com/Triadziuch/STM32-Project-files/assets/75269577/2d5413a4-7a7d-4dac-bcdd-5f28fad6ad73)
