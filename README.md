@@ -9,3 +9,7 @@ This repository contains files for a program designed for the STM32L476RG microc
 
 ## LCD Displaying data received via UART:
 ![2 2 - 5](https://github.com/Triadziuch/STM32-Project-files/assets/75269577/e8a522a3-cdae-4906-bf52-13842347878b)
+
+
+## Usage
+Simply download the repository and compile it using STM32CubeIDE.
